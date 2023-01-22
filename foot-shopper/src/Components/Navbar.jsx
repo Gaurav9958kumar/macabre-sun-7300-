@@ -35,7 +35,7 @@ function Navbar() {
   
             <DrawerBody>
               <Stack paddingBottom={"20px"}>
-              <img width={"50%"} src="https://i.ibb.co/XfBs7tW/shop-com-logo.png" alt="al" />
+              <img width={"50%"} src="https://i.pinimg.com/736x/d3/07/a9/d307a9a5e168528d53989e500b453cf3--website-design-inspiration-logo-inspiration.jpg" alt="al" />
               <hr />
               <br />
               </Stack>
@@ -57,7 +57,7 @@ function Navbar() {
               <br />
 <hr />
 <br />
-              <Text>Welcome <b> {isAuth ? "Bhavesh Kumar" : ""} </b>  </Text>
+              <Text>Welcome <b> {isAuth ? "Gaurav Kumar" : ""} </b>  </Text>
               
             </DrawerBody>
   
@@ -79,14 +79,15 @@ function Navbar() {
           <Link to={"/"}>
           <Image
             alt="logo"
-            src="https://i.ibb.co/XfBs7tW/shop-com-logo.png"
-            width={"33%"}
+            src="https://i.pinimg.com/736x/d3/07/a9/d307a9a5e168528d53989e500b453cf3--website-design-inspiration-logo-inspiration.jpg"
+            width={"100%"}
+            height={"60px"}
             cursor="pointer"
           />
           </Link>
           {" "}
           <Input
-            placeholder="Search at Shoppers Hub"
+            placeholder="Search at Foot Solution"
             width={"40%"}
          
             borderRadius={"20px"}
@@ -95,7 +96,9 @@ function Navbar() {
           />
           <Image
             alt="logo2"
-            src="https://img.shop.com/Image/header2013/layered-us-eng-105972-blk-friday-banner-300x50-11670940062489.jpg"
+            src="https://i.pinimg.com/736x/d3/07/a9/d307a9a5e168528d53989e500b453cf3--website-design-inspiration-logo-inspiration.jpg"
+            width={"10%"}
+            height={"60px"}
           />{" "}
         </HStack>
         <HStack justifyContent={"space-between"}>
