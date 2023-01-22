@@ -9,7 +9,7 @@ function AuthContextProvider({ children }) {
 
   const toggleUser = () => {
     setIsAuth(true);
-    setToken("Bhavesh Kumar");
+    setToken("Gaurav Kumar");
   };
   
   return (
