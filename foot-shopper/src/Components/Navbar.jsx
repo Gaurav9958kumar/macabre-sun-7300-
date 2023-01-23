@@ -49,9 +49,6 @@ function Navbar() {
               <li>Health & Nutirtion</li>
               <li>Jwels</li>
               <li>Electronics</li>
-              <li>Pet Supplies</li>
-              <li>Food & Drinks</li>
-              <li>Travels</li>
               <li>Sports</li>
               <li>Shop</li>
               <br />
